@@ -1,0 +1,24 @@
+[0]
+GeoInterface = "1"
+GeoTables = "1"
+Tables = "1"
+
+["0 - 0.2"]
+Meshes = "0.28.1-0.28"
+
+["0 - 0.2.0"]
+PlotlyBase = "0.8.19-0.8"
+
+["0.2.1 - 0.2"]
+julia = "1.9.0-1"
+
+["0.4 - 0"]
+Artifacts = "1"
+CircularArrays = "1.4.0 - 1"
+CoordRefSystems = "0.13 - 0.16"
+GeoJSON = "0.8"
+Meshes = "0.50 - 0.53"
+NaturalEarth = "0.1"
+PrecompileTools = "1"
+Unitful = "1"
+julia = "1.11.0 - 1"

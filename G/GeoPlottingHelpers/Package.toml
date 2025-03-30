@@ -1,0 +1,3 @@
+name = "GeoPlottingHelpers"
+uuid = "c20ae07a-79b5-4dbd-b2dc-f2e51386613e"
+repo = "https://github.com/JuliaSatcomFramework/GeoPlottingHelpers.jl.git"

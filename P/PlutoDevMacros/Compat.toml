@@ -1,0 +1,7 @@
+[0]
+JuliaInterpreter = "0.9"
+Logging = "1"
+MacroTools = "0.5"
+Pkg = "1"
+TOML = "1"
+julia = "1.9.0-1"

@@ -1,0 +1,3 @@
+name = "SequentialOutputChannels"
+uuid = "378a5cb6-73fb-4189-b384-0a829fc08157"
+repo = "https://github.com/disberd/SequentialOutputChannels.jl.git"

@@ -1,0 +1,3 @@
+name = "ExtendedLocalCoverage"
+uuid = "eb248270-a497-541c-8f75-6bb2aa2715dc"
+repo = "https://github.com/disberd/ExtendedLocalCoverage.jl.git"
