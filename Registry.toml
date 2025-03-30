@@ -1,0 +1,5 @@
+name = "GithubSatcomRegistry"
+uuid = "c7468e3b-2b83-469b-8010-9ae319e284b9"
+repo = "https://github.com/JuliaSatcomFramework/JuliaRegistry.git"
+
+[packages]
