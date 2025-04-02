@@ -28,3 +28,6 @@ CoordRefSystems = "0.13 - 0.16"
 ["0.4.10 - 0"]
 CoordRefSystems = "0.13 - 0.17"
 GeoPlottingHelpers = "0.1.2 - 0.1"
+
+["0.4.11 - 0"]
+ScopedValues = "1.3.0 - 1"

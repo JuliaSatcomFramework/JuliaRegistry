@@ -20,3 +20,6 @@ Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 
 ["0.4.10 - 0"]
 GeoPlottingHelpers = "c20ae07a-79b5-4dbd-b2dc-f2e51386613e"
+
+["0.4.11 - 0"]
+ScopedValues = "7e506255-f358-4e82-b7e4-beb19740aa63"
