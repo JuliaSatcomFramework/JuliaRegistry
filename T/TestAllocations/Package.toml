@@ -1,3 +1,3 @@
 name = "TestAllocations"
 uuid = "31fccf1a-3a64-44c3-87f8-a03bc812acf0"
-repo = "https://github.com/disberd/TestAllocations.jl.git"
+repo = "https://github.com/JuliaSatcomFramework/TestAllocations.jl.git"
