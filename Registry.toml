@@ -6,6 +6,7 @@ repo = "https://github.com/JuliaSatcomFramework/JuliaRegistry.git"
 13e19751-ccd1-416d-be0c-a6724a8caa31 = { name = "BasicTypes", path = "B/BasicTypes" }
 17778021-2b2c-4ecf-610a-391273688f7f = { name = "ITUPropagationModels", path = "I/ITUPropagationModels" }
 22c7c615-cf67-4787-b800-cc81b4f1a63f = { name = "GeoGrids", path = "G/GeoGrids" }
+31fccf1a-3a64-44c3-87f8-a03bc812acf0 = { name = "TestAllocations", path = "T/TestAllocations" }
 378a5cb6-73fb-4189-b384-0a829fc08157 = { name = "SequentialOutputChannels", path = "S/SequentialOutputChannels" }
 61f21f9a-4073-5473-9260-49250f3db370 = { name = "PlutoShowHelpers", path = "P/PlutoShowHelpers" }
 6f00a2c5-ea4a-46bf-9183-91b7b57a087f = { name = "SimplePlutoInclude", path = "S/SimplePlutoInclude" }
