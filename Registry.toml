@@ -10,6 +10,7 @@ repo = "https://github.com/JuliaSatcomFramework/JuliaRegistry.git"
 378a5cb6-73fb-4189-b384-0a829fc08157 = { name = "SequentialOutputChannels", path = "S/SequentialOutputChannels" }
 61f21f9a-4073-5473-9260-49250f3db370 = { name = "PlutoShowHelpers", path = "P/PlutoShowHelpers" }
 6f00a2c5-ea4a-46bf-9183-91b7b57a087f = { name = "SimplePlutoInclude", path = "S/SimplePlutoInclude" }
+8fb48e0b-3c9c-4361-9123-9e8e6ea58083 = { name = "GeoBasics", path = "G/GeoBasics" }
 a0499f29-c39b-4c5c-807c-88074221b949 = { name = "PlutoDevMacros", path = "P/PlutoDevMacros" }
 a73e506c-35e8-47b2-857c-dfce7ead1349 = { name = "ItuRPropagation", path = "I/ItuRPropagation" }
 a7e57fc7-3548-4021-90c3-ac0e175068b1 = { name = "PlotlyExtensionsHelper", path = "P/PlotlyExtensionsHelper" }
