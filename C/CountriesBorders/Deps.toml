@@ -9,9 +9,11 @@ InteractiveUtils = "b77e0a4c-d291-57a0-90e8-8db25a27a240"
 Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
 PlotlyBase = "a03496cd-edff-5a9b-9e67-9cda94a718b5"
 
+["0.4"]
+CircularArrays = "7a955b69-7140-5f4e-a0ed-f168c5e2e749"
+
 ["0.4 - 0"]
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
-CircularArrays = "7a955b69-7140-5f4e-a0ed-f168c5e2e749"
 CoordRefSystems = "b46f11dc-f210-4604-bfba-323c1ec968cb"
 GeoJSON = "61d90e0f-e114-555e-ac52-39dfb47a3ef9"
 NaturalEarth = "436b0209-26ab-4e65-94a9-6526d86fea76"
@@ -23,3 +25,7 @@ GeoPlottingHelpers = "c20ae07a-79b5-4dbd-b2dc-f2e51386613e"
 
 ["0.4.11 - 0"]
 ScopedValues = "7e506255-f358-4e82-b7e4-beb19740aa63"
+
+["0.5 - 0"]
+BasicTypes = "13e19751-ccd1-416d-be0c-a6724a8caa31"
+GeoBasics = "8fb48e0b-3c9c-4361-9123-9e8e6ea58083"
