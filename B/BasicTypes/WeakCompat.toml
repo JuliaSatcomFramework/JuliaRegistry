@@ -22,6 +22,14 @@ Meshes = "0.51 - 0.54"
 ["1.17 - 2"]
 StructArrays = "0.7.1 - 0.7"
 
-["1.18.1 - 2"]
+["1.18.1 - 1.18"]
+CoordRefSystems = "0.16 - 0.19"
+Meshes = "0.51 - 0.55"
+
+["1.19 - 1"]
+CoordRefSystems = "0.16 - 0.18"
+Meshes = "0.51 - 0.54"
+
+[2]
 CoordRefSystems = "0.16 - 0.19"
 Meshes = "0.51 - 0.55"
