@@ -1,11 +1,16 @@
 [0]
-CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
 CoverageTools = "c36e975a-824b-4404-a568-ef97ca766997"
 LocalCoverage = "5f6e1e16-694c-5876-87ef-16b5274f298e"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
-PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
-["0.1.2 - 0"]
+["0-0.1"]
+CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+
+["0.1.2-0.1"]
 PrettyTables = "08abe8d2-0d0c-5749-adfa-8a2ac140af0d"
+
+["0.2-0"]
+HypertextTemplates = "c7d46f9d-34c3-4420-bf57-257f25aec718"
