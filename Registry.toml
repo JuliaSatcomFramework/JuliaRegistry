@@ -15,5 +15,6 @@ a0499f29-c39b-4c5c-807c-88074221b949 = { name = "PlutoDevMacros", path = "P/Plut
 a73e506c-35e8-47b2-857c-dfce7ead1349 = { name = "ItuRPropagation", path = "I/ItuRPropagation" }
 a7e57fc7-3548-4021-90c3-ac0e175068b1 = { name = "PlotlyExtensionsHelper", path = "P/PlotlyExtensionsHelper" }
 c20ae07a-79b5-4dbd-b2dc-f2e51386613e = { name = "GeoPlottingHelpers", path = "G/GeoPlottingHelpers" }
+d21d77ff-2495-4194-bdcf-4286a08d4d8f = { name = "PlutoRevise", path = "P/PlutoRevise" }
 eb248270-a497-541c-8f75-6bb2aa2715dc = { name = "ExtendedLocalCoverage", path = "E/ExtendedLocalCoverage" }
 ee40d4b5-31c3-4fe2-b6cc-5ac7adf7f414 = { name = "CountriesBorders", path = "C/CountriesBorders" }
