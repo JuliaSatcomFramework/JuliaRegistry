@@ -1,35 +1,28 @@
-["1.11 - 1.15"]
-StructArrays = "0.7.1 - 0.7"
-
-["1.13 - 1.14"]
-Meshes = "0.51 - 0.53"
-
-["1.13 - 1.15"]
-CoordRefSystems = "0.16 - 0.18"
-
-["1.15"]
-Meshes = "0.51 - 0.54"
-
-["1.16"]
-CoordRefSystems = "0.16-0.18"
-Meshes = "0.51-0.54"
+["1.11-2"]
 StructArrays = "0.7.1-0.7"
 
-["1.17 - 1.18.0"]
-CoordRefSystems = "0.16 - 0.18"
-Meshes = "0.51 - 0.54"
+["1.13-1.14"]
+Meshes = "0.51-0.53"
 
-["1.17 - 2"]
-StructArrays = "0.7.1 - 0.7"
+["1.13-1.18.0"]
+CoordRefSystems = "0.16-0.18"
 
-["1.18.1 - 1.18"]
-CoordRefSystems = "0.16 - 0.19"
-Meshes = "0.51 - 0.55"
+["1.15-1.18.0"]
+Meshes = "0.51-0.54"
+
+["1.18.1-1.18"]
+CoordRefSystems = "0.16-0.19"
+Meshes = "0.51-0.55"
 
 ["1.19.0"]
-CoordRefSystems = "0.16 - 0.18"
-Meshes = "0.51 - 0.54"
+CoordRefSystems = "0.16-0.18"
+Meshes = "0.51-0.54"
 
-["1.19.1 - 2"]
-CoordRefSystems = "0.16 - 0.19"
-Meshes = "0.51 - 0.55"
+["1.19.1-2"]
+CoordRefSystems = "0.16-0.19"
+
+["1.19.1-2.2.0"]
+Meshes = "0.51-0.55"
+
+["2.2.1-2"]
+Meshes = "0.51-0.57"
