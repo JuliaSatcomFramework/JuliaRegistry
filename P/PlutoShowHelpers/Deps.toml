@@ -2,8 +2,11 @@
 AbstractPlutoDingetjes = "6e696c72-6542-2067-7265-42206c756150"
 HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
 
-["0 - 0.2"]
+["0-0.2"]
 NamedTupleTools = "d9ec5142-1e00-5aa0-9d6a-321866360f50"
 
-["0.3 - 0"]
+["0.3-0"]
 ConstructionBase = "187b0558-2788-49d3-abe0-74a17ed4e7c9"
+
+["0.3.5-0"]
+ScopedValues = "7e506255-f358-4e82-b7e4-beb19740aa63"
