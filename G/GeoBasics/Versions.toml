@@ -19,3 +19,6 @@ git-tree-sha1 = "12fc1a7ca77b27c7520c0520f4a1d65e18c47a6f"
 ["1.2.2"]
 git-tree-sha1 = "1a3c9e3fabcbd43fba52e48e00d93fe2e6eef1a9"
 yanked = true
+
+["1.3.0"]
+git-tree-sha1 = "60bbe79066d1ba94b38cea391052a316f17a4636"
