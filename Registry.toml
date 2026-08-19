@@ -18,3 +18,4 @@ c20ae07a-79b5-4dbd-b2dc-f2e51386613e = { name = "GeoPlottingHelpers", path = "G/
 d21d77ff-2495-4194-bdcf-4286a08d4d8f = { name = "PlutoRevise", path = "P/PlutoRevise" }
 eb248270-a497-541c-8f75-6bb2aa2715dc = { name = "ExtendedLocalCoverage", path = "E/ExtendedLocalCoverage" }
 ee40d4b5-31c3-4fe2-b6cc-5ac7adf7f414 = { name = "CountriesBorders", path = "C/CountriesBorders" }
+fe4ddbe3-63a4-4ce0-8a5b-46bb22807cc2 = { name = "CesiumLink", path = "C/CesiumLink" }
